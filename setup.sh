@@ -5,6 +5,7 @@
 brew install git
 brew cask install iterm2
 brew install terraform
+brew install --cask anaconda
 
 # languages & build tools
 brew install golang

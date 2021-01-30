@@ -13,3 +13,4 @@
 - rubymine
 - intellij-idea
 - ohmyzsh
+- anaconda
