@@ -16,3 +16,4 @@
 - anaconda
 - docker
 - postman
+- heroku cli
