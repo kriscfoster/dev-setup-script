@@ -15,3 +15,4 @@
 - ohmyzsh
 - anaconda
 - docker
+- postman

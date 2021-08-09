@@ -20,6 +20,7 @@ brew cask install rubymine
 brew cask install intellij-idea
 brew install --cask visual-studio-code
 brew install --cask docker
+brew install --cask postman
 
 # sugar
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
