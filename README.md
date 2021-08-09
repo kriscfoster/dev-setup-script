@@ -14,3 +14,4 @@
 - intellij-idea
 - ohmyzsh
 - anaconda
+- docker
