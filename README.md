@@ -17,3 +17,4 @@
 - docker
 - postman
 - heroku cli
+- pgadmin4

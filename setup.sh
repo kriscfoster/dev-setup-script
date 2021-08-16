@@ -9,7 +9,7 @@ brew install --cask anaconda
 brew install --cask docker
 brew install --cask postman
 brew tap heroku/brew && brew install heroku
-
+brew install --cask pgadmin4
 
 # languages & build tools
 brew install go
