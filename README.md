@@ -19,3 +19,4 @@
 - heroku cli
 - pgadmin4
 - jq
+- bazelisk

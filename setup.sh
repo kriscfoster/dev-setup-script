@@ -17,6 +17,7 @@ brew install go
 brew install node
 brew install maven
 brew install java
+brew install bazelisk
 
 # IDEs
 brew cask install sublime-text
